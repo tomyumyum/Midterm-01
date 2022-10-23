@@ -24,3 +24,6 @@ class Student extends Person {
         System.out.println(stu.getName());
     }
 }
+
+/*/ So for this the output would  be nothing because of the word final. However, if I remove the word final the outputs would be 
+Mickey and Super Mouse. */
