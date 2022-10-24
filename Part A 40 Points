@@ -1,0 +1,33 @@
+A.1 
+
+
+
+
+A.2 - 10 points
+Question:  
+What are the 2 ways to use the keyword “super” in a class? - Give code examples to demonstrate your answers
+Answer: 
+Two ways to use the keyword "super" are 
+
+//If a method overrides one of its superclass's methods, then we can invoke the overridden method through the use of the keyword super.
+
+
+//Illustrating how to use the super keyword to invoke a superclass's constructor.
+
+
+
+A.3
+
+
+
+
+A.4
+
+
+
+
+A.5
+
+
+
+
